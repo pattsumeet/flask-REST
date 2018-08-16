@@ -19,3 +19,4 @@ python app.py
 ## Description
 This is implemented using Flask, and it demonstrate REST API for a store.
 
+##All push are done to branch and aoto deployed to master branch
