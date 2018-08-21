@@ -3,13 +3,13 @@
 
 ## Installation
 
-git init
-git status
-git add filename
-git commit -m "commit message"
+<pre>git init</pre>
+<pre>git status</pre>
+<pre>git add filename</pre>
+<pre>git commit -m "commit message"</pre>
 
-git remote remove origin
-git remote add origin "origin url"
+<pre>git remote remove origin</pre>
+<pre>git remote add origin "origin url"</pre>
 
 ```
 pip install Flask
