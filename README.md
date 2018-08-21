@@ -3,17 +3,17 @@
 
 ## Installation
 
-git init
-git status
-git add filename
-git commit -m "commit message"
-
-git remote remove origin
-git remote add origin "origin url"
+Run the below commands :
 
 ```
-pip install Flask
-python app.py
+$ git init
+$ git status
+$ git add filename
+$ git commit -m "commit message"
+$ git remote remove origin
+$ git remote add origin "origin url"
+$ pip install Flask
+$ python app.py
 ```
 
 ## Description
